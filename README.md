@@ -4,7 +4,7 @@ This is a personal website showcasing various projects and social media profiles
 
 ## Screenshot
 
-![Screenshot of Personal Website](assets/screenshot.png)
+![Screenshot of Personal Website](./assets/screenshot.jpeg)
 
 ## Projects
 
